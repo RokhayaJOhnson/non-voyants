@@ -1,0 +1,34 @@
+p{
+	font-size: 1.2em;
+}
+
+ul{
+	margin-left: 3%;
+}
+
+li{
+	font-size: 0.85em;
+}
+
+main{
+	width: 90%;
+	margin: auto;
+	text-align: justify;
+}
+
+.hr{
+	width: 30%;
+	margin: auto;
+	border-bottom: 5px #288200 solid;
+	border-top: 5px #288200 solid;
+	padding: 1%;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	text-align: center;
+}
+
+h1{
+	font-size: 1.2em;
+	margin-top: 3%;
+	text-align: center;
+}
