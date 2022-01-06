@@ -171,5 +171,8 @@
 
 		</p>
 	</main>
+	<?php 
+		include("pages/footer.php");
+	?>
 </body>
 </html>
