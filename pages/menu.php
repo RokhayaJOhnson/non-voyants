@@ -6,6 +6,7 @@
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="styles/menu.css">
 	<link rel="stylesheet" type="text/css" href="styles/index-style.css">
+	<link rel="stylesheet" type="text/css" href="styles/footer.css">
 </head>
 <body>
 	<header>
