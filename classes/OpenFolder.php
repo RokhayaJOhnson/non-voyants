@@ -33,7 +33,6 @@
 					
 				}
 				closedir($handle);
-				// return $tableDirectory;
 			}
 		}
 	}
