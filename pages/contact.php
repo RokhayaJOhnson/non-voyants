@@ -10,6 +10,9 @@
 		<?php include("header.php"); ?>
 		
 	</header>
-
+	
+	<?php 
+		include("footer.php");
+	?>
 </body>
 </html>
