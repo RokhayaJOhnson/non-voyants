@@ -42,8 +42,5 @@
 		<a href="../classes/OpenFolder.php?fileChoosed=Statut_groupement_economique.pdf"> Statut de groupement économique </a> <br><br>
 
 	</main>
-	<?php 
-		include("footer.php");
-	?>
 </body>
 </html>
