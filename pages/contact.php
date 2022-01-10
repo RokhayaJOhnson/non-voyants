@@ -10,7 +10,6 @@
 		<?php include("header.php"); ?>
 		
 	</header>
-<<<<<<< HEAD
 	<main>
 		
 		<form>
@@ -22,11 +21,5 @@
 	</main>
 	<?php include("footer.php"); ?>
 
-=======
-	
-	<?php 
-		include("footer.php");
-	?>
->>>>>>> 32d955026bc3acf2f77fa75f8c0bacf595ca70da
 </body>
 </html>
