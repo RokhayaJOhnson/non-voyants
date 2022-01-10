@@ -23,9 +23,8 @@
 <body>
 
 	<footer>
-		abc
+		
 	</footer>
 
 </body>
 </html>
->>>>>>> 32d955026bc3acf2f77fa75f8c0bacf595ca70da
