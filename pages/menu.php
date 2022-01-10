@@ -3,15 +3,15 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
 	<link rel="stylesheet" type="text/css" href="styles/menu.css">
 	<link rel="stylesheet" type="text/css" href="styles/index-style.css">
+	<link rel="stylesheet" type="text/css" href="styles/footer.css">
 </head>
 <body>
 	<header>
 		<div id="logo">
 			<a href="index.php"><img src="images/logo.png" alt="logo"></a>
-			<a href="pages/faire_un_don.php"><img src="images/faire_un_don.png" class="don"></a>
+			<a href="pages/faire_un_don.php" class="don">Faire un don</a>
 		</div>
 		<nav id="menu-header">
 			<li><a href="index.php">Accueil</a></li>

@@ -37,6 +37,7 @@
 	</header>
 	<main>
 		
+		<h1>Faire un don</h1>
 		<form action="" method="POST">
 
 			<input type="number" name="number">

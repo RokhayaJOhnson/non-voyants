@@ -3,9 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Test pdf</title>
 </head>
 <body>
-	<embed type="pdf" src="documents_pdf/Attestation_Banque_Agricole Gadiaga.pdf" />
+
+	<footer>
+		
+	</footer>
+
 </body>
 </html>

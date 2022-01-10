@@ -1,13 +1,10 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-size: 1.1em;
+	font-size: 1.05em;
 }
-
 header{
-	padding: 0.5%;
-	width: 95%;
-	margin: auto;
+	width: 100%;
 	background-color: #288200;
 }
 
@@ -26,16 +23,17 @@ header{
 }
 
 .don{
-	width: 170%;
+	text-decoration: none;
+	color: #000000;
+	display: block;
+	width: 20%;
+	background-color: #288200;
+	text-align: center;
 }
 
 #menu-header{
 	display: flex;
 	padding: 1%;
-}
-
-#menu-header ul{
-	
 }
 
 #menu-header li{
@@ -44,6 +42,7 @@ header{
 	border-right: #ffffff dotted 2px;
 	display: block;
 	text-align: center;
+	font-size: 1em;
 }
 
 #menu-header a{
