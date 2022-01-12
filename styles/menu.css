@@ -62,4 +62,14 @@ header{
 	*{
 		font-size: 1em;
 	}
+
+	body{
+		border: none;
+	}
+
+	#menu-header li{
+		padding: 2%;
+		border: none;
+	}
+
 }
