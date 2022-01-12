@@ -56,3 +56,10 @@ header{
 	color: #ffffff;
 
 }
+
+@media screen and (max-width: 780px){
+
+	*{
+		font-size: 1em;
+	}
+}

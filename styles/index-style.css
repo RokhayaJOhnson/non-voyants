@@ -17,11 +17,11 @@ main{
 }
 
 .hr{
-	width: 30%;
+	width: 50%;
 	margin: auto;
 	border-bottom: 5px #3462fe solid;
 	border-top: 5px #3462fe solid;
-	padding: 1%;
+	padding: 2%;
 	margin-bottom: 3%;
 	margin-top: 3%;
 	text-align: center;
@@ -31,4 +31,11 @@ h1{
 	font-size: 1.2em;
 	margin-top: 3%;
 	text-align: center;
+}
+
+@media screen and (max-width: 780px){
+
+	body{
+		background-color: red;
+	}
 }
