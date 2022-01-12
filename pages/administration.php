@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="../styles/administration.css">
 	<title>Administration</title>
 </head>
 <body>
@@ -17,9 +18,11 @@
 
 	<main>
 	
-		<h1>Tous nos documents juridiques</h1>
-		<h2>Choisissez le dossier administratif que vous souhaitez consulter</h2>
-		<h3>Vous avez aussi la possibilité de les imprimer ou télécharger</h3>
+		<h1>Tous nos documents juridiques</h1> <br>
+
+		<h2>Choisissez le dossier administratif que vous souhaitez consulter</h2> <br>
+		
+		<h3>Vous avez aussi la possibilité de les imprimer ou télécharger</h3> <br>
 
 		<a href="../classes/OpenFolder.php?fileChoosed=Attestation_Banque_Agricole Gadiaga.pdf">L'attestation de la banque Agricole</a> <br><br>
 

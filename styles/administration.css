@@ -1,0 +1,14 @@
+main{
+	text-align: center;
+	margin-top: 15px;
+}
+
+main a{
+	text-decoration: none;
+	display: block;
+	width: 90%;
+	padding: 2%;
+	border: 2px solid #3462fe;
+	color: #000000;
+	margin: auto;
+}
