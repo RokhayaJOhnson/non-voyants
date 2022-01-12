@@ -11,7 +11,7 @@
 	<header>
 		<div id="logo">
 			<a href="index.php"><img src="images/logo.png" alt="logo"></a>
-			<a href="pages/faire_un_don.php" class="don">Faire un don</a>
+			<a href="pages/faire_un_don.php" class="don">Faire un don <img src="images/ask_hand.png"></a> 
 		</div>
 		<nav id="menu-header">
 			<li><a href="index.php">Accueil</a></li>

@@ -3,6 +3,11 @@
 	padding: 0;
 	font-size: 1.05em;
 }
+
+body{
+	border: solid #3462fe 5px;
+}
+
 header{
 	width: 100%;
 	background-color: #3462fe;
@@ -29,6 +34,7 @@ header{
 	width: 20%;
 	background-color: #3462fe;
 	text-align: center;
+	padding: 2%;
 }
 
 #menu-header{
