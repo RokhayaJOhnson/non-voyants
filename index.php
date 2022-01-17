@@ -30,10 +30,10 @@
 					Contexte de création 
 				</div>
 
-			La problématique du développement du Sénégal se pose dans un contexte de crise multidimensionnelle dont parmi les plus importantes demeure l’éducation et la formation, en tant que stratégie de développement globale et de promotion socioéconomique. Les sociétés d’aujourd’hui sont qualifiées de « société des savoirs ».  Ainsi, la formation des générations devient la condition sine qanun de tout développement. Mais au-delà de l’éducation et de la formation, l’insertion interpelle. En effet, le contexte est marqué par un déficit de qualification professionnelle. Les produits du système éducatif (formel et non formel) ne sont pas souvent prêts à être employés faute de formation qualifiante et adaptée au marché du travail.  Dans ce contexte, la dualité des catégories de formés : arabisants françisants au sein du système éducatif continue de défavoriser la première. Aujourd’hui, avec des profils relégués, les premiers se sentent exclus ou mal confortés. En effet, ils s’orientent vers des formations qui risquent de les marginaliser encore plus. La création d’écoles coraniques sans perspective d’insertion, le secteur informel, le transport et le commerce semblent s’offrir comme voie à presque tous les arabisants qui n’auraient pas la chance d’intégrer l’enseignement public ou privé formel. Une bonne partie de cette catégorie constitue un grand contingent de marchands ambulants, d’apprentis chauffeurs ou encore de laveurs de véhicule. <br>
-			Or dans le contexte, l’école coranique devient un lieu de renforcement des vulnérabilités sociales et économiques.  Elles sont fréquentées très souvent par des enfants vivant avec handicap et sans assises économiques solides.  L’école coranique ne prépare pas souvent à l’emploi même si elle développe une certaine autonomie chez les talibés. Ainsi, ces écoles reproduisent les mêmes faiblesses et installent ses produits dans une vulnérabilité durable. Toutefois, le secteur du transport et du commerce quant à eux sont vitaux dans la vie d’une économie s’ils étaient occupés par des personnes qualifiées à même de comprendre leur impact dans l’économie du pays. C’est pourquoi pour fléchir la tendance à la négligence dont sont victimes ces secteurs il est nécessaire de les valoriser en leur pourvoyant des ressources humaines de qualité ayant une maitrise des enjeux et des problématiques qui les agitent. C’est ainsi que l’ACBPNV a été mise en place avec comme boussole l’insertion des arabisants en général et des non-voyants et autres handicapés en particulier. 
+			La problématique du développement du Sénégal se pose dans un contexte de crise multidimensionnelle dont parmi les plus importantes demeure l’éducation et la formation, en tant que stratégie de développement globale et de promotion socioéconomique. Les sociétés d’aujourd’hui sont qualifiées de « société des savoirs ».  Ainsi, la formation des générations devient la condition sine qanun de tout développement. Mais au-delà de l’éducation et de la formation, l’insertion interpelle. En effet, le contexte est marqué par un déficit de qualification professionnelle. Les produits du système éducatif (formel et non formel) ne sont pas souvent prêts à être employés faute de formation qualifiante et adaptée au marché du travail.  Dans ce contexte, la dualité des catégories de formés : arabisants françisants au sein du système éducatif continue de défavoriser la première. Aujourd’hui, avec des profils relégués, les premiers se sentent exclus ou mal confortés. En effet, ils s’orientent vers des formations qui risquent de les marginaliser encore plus. La création d’écoles sans perspective d’insertion, le secteur informel, le transport et le commerce semblent s’offrir comme voie à presque tous ceux qui n’auraient pas la chance d’intégrer l’enseignement public ou privé formel. Une bonne partie de cette catégorie constitue un grand contingent de marchands ambulants, d’apprentis chauffeurs ou encore de laveurs de véhicule. <br>
+			Or dans le contexte, l’école devient un lieu de renforcement des vulnérabilités sociales et économiques.  Elles sont fréquentées très souvent par des enfants vivant avec handicap et sans assises économiques solides.  L’école ne prépare pas souvent à l’emploi même si elle développe une certaine autonomie chez les apprenants. Ainsi, ces écoles reproduisent les mêmes faiblesses et installent ses produits dans une vulnérabilité durable. Toutefois, le secteur du transport et du commerce quant à eux sont vitaux dans la vie d’une économie s’ils étaient occupés par des personnes qualifiées à même de comprendre leur impact dans l’économie du pays. C’est pourquoi pour fléchir la tendance à la négligence dont sont victimes ces secteurs il est nécessaire de les valoriser en leur pourvoyant des ressources humaines de qualité ayant une maitrise des enjeux et des problématiques qui les agitent. C’est ainsi que l’ACBPNV a été mise en place avec comme boussole l’insertion des arabisants en général et des non-voyants et autres handicapés en particulier. 
 
-				<div class="hr">
+				<!-- <div class="hr">
 					Vision et philosophie 
 				</div>
 
@@ -43,13 +43,13 @@
 
 				<li>corriger la faiblesse constatée du niveau de qualification professionnelle de la population active en général ; et</li>
 
-				<li>corriger le déséquilibre existant entre les deux catégories de formés lié aux disparités d’offres de formation. </li>
+				<li>corriger le déséquilibre existant entre les deux catégories de formés lié aux disparités d’offres de formation. </li> -->
 
 					<div class="hr">
 						Objectifs
 					</div>
 
-				<li>Participer à la formation qualifiante des arabisants en général et des handicapés en particulier ; </li>
+				<li>Participer à la formation qualifiante des handicapés en particulier ; </li>
 
 				<li>Promouvoir la formation des non-voyants, la protection de leurs droits et leur insertion socio-professionnelle ; </li>
 
@@ -64,7 +64,7 @@
 
 				L’ASBPNV intervient dans les domaines suivants : <br>
 				
-				<li>Éducation : enseignement de base, enseignement coranique ;</li>
+				<li>Éducation : enseignement de base ;</li>
 
 				<li>Formation professionnelle et technique : formation aux métiers et à l’artisanat ;</li>
 
@@ -101,8 +101,7 @@
 					<li>Le niveau intermédiaire se définit par rapport aux profils suivants : </li>
 
 						<ul>
-							<li>Les jeunes gens âgés entre 10 et 16 ans sachant lire et écrire en arabe ou en français ou les deux ; </li>
-							<li>Les talibés ayant mémorisé le coran en intégralité ou en partie ;</li>
+							<li>Les jeunes gens âgés entre 10 et 16 ans sachant lire et écrire ; </li>
 							<li>Les handicapés visuels de façon inclusive. </li>
 						</ul>
 
@@ -113,9 +112,9 @@
 						Diplômes préparés et certification
 					</div>
 		
-				<li>Le CFEE dans ses deux options français et franco-arabe ;</li>
+				<li>Le CFEE </li>
 
-				<li>Le BFEM dans ses deux options français et franco-arabe.</li>
+				<li>Le BFEM </li>
 
 				<li>Une attestation professionnelle de transport et de commerce</li>
 
@@ -127,7 +126,7 @@
 
 		 		<li>Formation professionnelle en alternance entre théorie et pratique : les apprenants seront amenés en stage de formation et de pré certification au niveau du commerce et du transport.</li>
 
-		 		<li>Formation scolaire de base conforme aux programmes en cours. Il s’agira d’un programme intégré adapté à l’âge et au background des bénéficiaires : le cycle élémentaire sera contracté pour les ayants mémorisé le coran ainsi que le cycle moyen .  Pour le niveau débutant, il sera prescrit la même durée que dans l’école publique. </li>
+		 		<li>Formation scolaire de base conforme aux programmes en cours. Il s’agira d’un programme intégré adapté à l’âge et au background des bénéficiaires.Pour le niveau débutant, il sera prescrit la même durée que dans l’école publique. </li>
 				 
 					<div class="hr">
 						Durée 
