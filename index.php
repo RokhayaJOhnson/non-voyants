@@ -20,22 +20,22 @@
 
 		<p>
 
-			<div class="hr">
-				Identification 
-			</div>
+				<div class="hr">
+					Identification 
+				</div>
 
 			L’Association de charité de bienfaisance pour la promotion des non-voyants est une association régie par la Loi N°66-70 du 13 juillet 1966 portant code des obligations civiles et commerciales modifiée par la Loi N° 68-08 du 26 mars 1968, la Loi N° 79-02 du 4 janvier 1979. Elle est immatriculée au RCCM sous le numéro SN.DKR.2018.C.12958. 
 
-			<div class="hr">
-				Contexte de création 
-			</div>
+				<div class="hr">
+					Contexte de création 
+				</div>
 
 			La problématique du développement du Sénégal se pose dans un contexte de crise multidimensionnelle dont parmi les plus importantes demeure l’éducation et la formation, en tant que stratégie de développement globale et de promotion socioéconomique. Les sociétés d’aujourd’hui sont qualifiées de « société des savoirs ».  Ainsi, la formation des générations devient la condition sine qanun de tout développement. Mais au-delà de l’éducation et de la formation, l’insertion interpelle. En effet, le contexte est marqué par un déficit de qualification professionnelle. Les produits du système éducatif (formel et non formel) ne sont pas souvent prêts à être employés faute de formation qualifiante et adaptée au marché du travail.  Dans ce contexte, la dualité des catégories de formés : arabisants françisants au sein du système éducatif continue de défavoriser la première. Aujourd’hui, avec des profils relégués, les premiers se sentent exclus ou mal confortés. En effet, ils s’orientent vers des formations qui risquent de les marginaliser encore plus. La création d’écoles coraniques sans perspective d’insertion, le secteur informel, le transport et le commerce semblent s’offrir comme voie à presque tous les arabisants qui n’auraient pas la chance d’intégrer l’enseignement public ou privé formel. Une bonne partie de cette catégorie constitue un grand contingent de marchands ambulants, d’apprentis chauffeurs ou encore de laveurs de véhicule. <br>
 			Or dans le contexte, l’école coranique devient un lieu de renforcement des vulnérabilités sociales et économiques.  Elles sont fréquentées très souvent par des enfants vivant avec handicap et sans assises économiques solides.  L’école coranique ne prépare pas souvent à l’emploi même si elle développe une certaine autonomie chez les talibés. Ainsi, ces écoles reproduisent les mêmes faiblesses et installent ses produits dans une vulnérabilité durable. Toutefois, le secteur du transport et du commerce quant à eux sont vitaux dans la vie d’une économie s’ils étaient occupés par des personnes qualifiées à même de comprendre leur impact dans l’économie du pays. C’est pourquoi pour fléchir la tendance à la négligence dont sont victimes ces secteurs il est nécessaire de les valoriser en leur pourvoyant des ressources humaines de qualité ayant une maitrise des enjeux et des problématiques qui les agitent. C’est ainsi que l’ACBPNV a été mise en place avec comme boussole l’insertion des arabisants en général et des non-voyants et autres handicapés en particulier. 
 
-			<div class="hr">
-				Vision et philosophie 
-			</div>
+				<div class="hr">
+					Vision et philosophie 
+				</div>
 
 			L’ASBPNV s’entend comme un cadre d’action et un instrument de développement du capital humain.  Elle inscrit son action dans les politiques nationales définies par les autorités de ce pays. Ses missions se définissent dans les axes suivants : 
 			<ul>
@@ -45,9 +45,9 @@
 
 				<li>corriger le déséquilibre existant entre les deux catégories de formés lié aux disparités d’offres de formation. </li>
 
-				<div class="hr">
-					Objectifs
-				</div>
+					<div class="hr">
+						Objectifs
+					</div>
 
 				<li>Participer à la formation qualifiante des arabisants en général et des handicapés en particulier ; </li>
 
@@ -58,9 +58,9 @@
 				<li>Contribuer à l’effort national et local de développement économique et social. </li>
 			
 			 
-				<div class="hr">
-					Domaines d’intervention
-				</div>
+					<div class="hr">
+						Domaines d’intervention
+					</div>
 
 				L’ASBPNV intervient dans les domaines suivants : <br>
 				
@@ -76,24 +76,24 @@
 
 				<li>Accompagnement des non-voyants dans la recherche de solutions à leurs problèmes spécifiques.  </li>
 
-				<div class="hr">
-					Stratégies de mise en œuvre
-				</div>
+					<div class="hr">
+						Stratégies de mise en œuvre
+					</div>
 
 				Mise en place d’un GIE <br>
 				L’ASBPNV a déjà mis sur pied un GIE chargé de développer des activités permettant d’assurer des revenus substantiels et permanents à tous ses membres actifs. Ce GIE se définit comme le cadre d’entraide et de mise en œuvre des politiques d’insertion de ses membres. Il favorise l’auto emploi et l’entrepreneuriat. Il offre aux sortants de l’institut un cadre idéal de contribution au développement local par la création d’activités économiques vitales (voir par ailleurs).   <br>
 				Mise en place d’un institut de formation <br>
 				L’ASBPNV entend mettre sur pied un institut de formation dédié aux enfants et adolescents a besoin d’éducation et de formation adaptée à leur situation. Il s’agit d’un institut de formation aux métiers et à l’entreprenariat (IFAME). Son but est de donner à ses cibles une formation qualifiante leur permettant d’exercer un métier ou une activité avec revenu et impact sur le développement. 
 
-				<div class="hr">
-					Filières 
-				</div>
+					<div class="hr">
+						Filières 
+					</div>
 
 				Trois filières principales : le transport, le commerce et l’enseignement sans restriction. 
 
-				<div class="hr">
-					Profil d’entrée 
-				</div>
+					<div class="hr">
+						Profil d’entrée 
+					</div>
 				
 				Niveau débutant et intermédiaire :
 
@@ -109,9 +109,9 @@
 					<li>Le niveau débutant se définit par rapport aux jeunes enfants âgés de 7 ans. </li>
 				</ol>
 
-				<div class="hr">
-					Diplômes préparés et certification
-				</div>
+					<div class="hr">
+						Diplômes préparés et certification
+					</div>
 		
 				<li>Le CFEE dans ses deux options français et franco-arabe ;</li>
 
@@ -121,17 +121,17 @@
 
 				<li>Un diplôme professionnel de l’enseignement (CEAP)</li>
 					
-				<div class="hr">
-					Type de formation
-				</div>
+					<div class="hr">
+						Type de formation
+					</div>
 
 		 		<li>Formation professionnelle en alternance entre théorie et pratique : les apprenants seront amenés en stage de formation et de pré certification au niveau du commerce et du transport.</li>
 
 		 		<li>Formation scolaire de base conforme aux programmes en cours. Il s’agira d’un programme intégré adapté à l’âge et au background des bénéficiaires : le cycle élémentaire sera contracté pour les ayants mémorisé le coran ainsi que le cycle moyen .  Pour le niveau débutant, il sera prescrit la même durée que dans l’école publique. </li>
 				 
-				<div class="hr">
-					Durée 
-				</div>
+					<div class="hr">
+						Durée 
+					</div>
 
 				<li>Niveau débutant : 10 années</li>
 
@@ -145,9 +145,9 @@
 					Sélection sur dossier et tests psychotechniques
 				</div> -->
 				
-				<div class="hr">
-					Programme de formation
-				</div>
+					<div class="hr">
+						Programme de formation
+					</div>
 
 				<li>Programme intégré ;</li>
 
@@ -155,9 +155,9 @@
 				
 				<li>Application de la méthode braille pour les handicapés visuels.</li>
 
-				<div class="hr">
-					Dispositif de formation et d’insertion
-				</div> 
+					<div class="hr">
+						Dispositif de formation et d’insertion
+					</div> 
 
 				<li>Enseignants avec le profil des enseignants de l’école publique et de la formation professionnelle.</li> 
 
