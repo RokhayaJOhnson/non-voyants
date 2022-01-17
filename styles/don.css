@@ -14,9 +14,22 @@ main img{
 	width: 100%;
 }
 
-.don{
+.bouton_don{
 	background-color: #3462fe;
 	color: #ffffff;
 	border: #ffffff solid 2px;
 	box-shadow: 2px 1px 3px #000000;
+	width: 30%;
+}
+
+@media screen and (max-width: 780px){
+
+	.bouton_don{
+		width: 50%;
+	}
+
+	main{
+		background-image: url("../images/dons-en-ligne2.jpg");
+		min-height: 30vh;
+	}
 }

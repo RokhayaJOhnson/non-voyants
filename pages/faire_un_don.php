@@ -45,7 +45,7 @@
 
 			<input type="number" name="number"> <br> <br>
 
-			<input type="submit" name="submit" value="Faire un don" class="don">
+			<input type="submit" name="submit" value="Faire un don" class="bouton_don">
 			
 		</form>
 
